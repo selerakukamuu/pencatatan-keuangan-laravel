@@ -1,9 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=💰+Aplikasi+Pencatatan+Keuangan+Mahasiswa&center=true&width=500&height=50">
+<h1 align="center">💰 Aplikasi Pencatatan Keuangan
 </h1>
 
 <p align="center">
-Aplikasi sederhana berbasis Laravel untuk mencatat pemasukan dan pengeluaran mahasiswa.
+Aplikasi sederhana berbasis Laravel untuk mencatat pemasukan dan pengeluaran seseorang.
 </p>
 
 <hr>
@@ -26,26 +25,17 @@ Data yang disimpan meliputi jenis transaksi, jumlah uang, dan keterangan.
 <h2>🛠️ Teknologi</h2>
 <ul>
   <li>Laravel (Framework PHP)</li>
-  <li>MySQL / SQLite (Database)</li>
+  <li>MySQL (Database)</li>
   <li>Bootstrap (UI)</li>
 </ul>
 
 <h2>🗄️ Struktur Database</h2>
 <ul>
   <li><b>idtransaksi</b> (Primary Key, Auto Increment)</li>
-  <li><b>jenistransaksi</b> (Masuk / Keluar)</li>
+  <li><b>jenistransaksi</b> (Varchar (10)) - (Masuk / Keluar)</li>
   <li><b>jumlah</b> (Integer)</li>
-  <li><b>keterangan</b> (String)</li>
+  <li><b>keterangan</b> (Varchar (50))</li>
 </ul>
-
-<h2>🚀 Cara Menjalankan</h2>
-<ol>
-  <li>Clone repository</li>
-  <li>Jalankan <code>composer install</code></li>
-  <li>Jalankan <code>php artisan migrate</code></li>
-  <li>Jalankan <code>php artisan serve</code></li>
-  <li>Buka <code>http://localhost:8000</code></li>
-</ol>
 
 <h2>📸 Screenshot</h2>
 <p>Halaman utama aplikasi:</p>
