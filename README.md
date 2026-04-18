@@ -38,11 +38,11 @@ Data yang disimpan meliputi jenis transaksi, jumlah uang, dan keterangan.
 </ul>
 
 <h2>📸 Screenshot</h2>
-<p>Halaman utama aplikasi:</p>
-<img src="LINK_GAMBAR_KAMU" width="600">
+<p>- Halaman utama aplikasi: home.png</p>
+<p>- Halaman edit data: edit.png</p>
 
 <hr>
 
 <p align="center">
-Dibuat oleh ❤️ (Nama Kamu)
+Thank you
 </p>
