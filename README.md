@@ -37,7 +37,7 @@ Data yang disimpan meliputi jenis transaksi, jumlah uang, dan keterangan.
   <li><b>keterangan</b> (Varchar (50))</li>
 </ul>
 
-<h2>📸 Screenshot</h2>
+<h2>Interface Halaman Aplikasi</h2>
 <p>- Halaman utama aplikasi: home.png</p>
 <p>- Halaman edit data: edit.png</p>
 
